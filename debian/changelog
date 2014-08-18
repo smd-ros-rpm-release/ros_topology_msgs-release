@@ -1,0 +1,8 @@
+ros-indigo-ros-topology-msgs (0.1.0-0trusty) trusty; urgency=high
+
+  * Initial commit with Apache 2.0 license
+  * Contributors: William Woodall, dan brooks
+
+ -- Dan Brooks <dan@osrfoundation.org>  Mon, 18 Aug 2014 07:00:00 -0000
+
+
